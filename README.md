@@ -1,6 +1,6 @@
 # Odin-Landing-Page
 
-Uma breve descrição sobre o que seu projeto faz e a quem ele se destina.
+Clone de uma Landing Page do curso de fundamentos do projeto Odin.
 
 ## Índice
 
