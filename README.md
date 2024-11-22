@@ -1,6 +1,6 @@
 # Odin-Landing-Page
 
-Clone de uma Landing Page do curso de fundamentos do projeto Odin.
+Este projeto é um clone de uma Landing Page implementado com HTML, CSS e JavaScript do curso de fundamentos do projeto Odin.
 
 ## Índice
 
