@@ -23,13 +23,13 @@ Odin-Landing-Page/
 ├── src/
 │   ├── index.html                 # Página inicial
 │   ├── pages/
-│   │   ├── contact.html           # Página de Contato
-│   │   └── privacy.html           # Página de Política de Privacidade
+│   │   ├── contact.html           # Página de Contato (vazio)
+│   │   └── privacy.html           # Página de Política de Privacidade (vazio)
 │   ├── css/
 │   │   └── style.css              # Arquivo de estilos personalizados
-│   ├── images/                    # Pasta para imagens
+│   ├── images/                    # Pasta para imagens (vazio)
 │   └── js/
-│       └── script.js              # Script JavaScript
+│       └── script.js              # Script JavaScript (vazio)
 └── README.md                      # Arquivo README com informações sobre o projeto
 ```
 
@@ -87,7 +87,7 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo `LICENSE` para 
 
 ## Autores
 
-- **Seu Nome** - _Trabalho inicial_ - [Seu GitHub](https://github.com/iErickAraujo)
+- **iErickAraujo** - _Trabalho inicial_ - [Meu GitHub](https://github.com/iErickAraujo)
 
 ## Reconhecimentos
 
