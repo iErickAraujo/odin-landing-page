@@ -30,8 +30,7 @@ Odin-Landing-Page/
 │   ├── images/                    # Pasta para imagens
 │   └── js/
 │       └── script.js              # Script JavaScript
-├── README.md                      # Arquivo README com informações sobre o projeto
-└── LICENSE                        # Arquivo de licença
+└── README.md                      # Arquivo README com informações sobre o projeto
 ```
 
 ## Tecnologias Utilizadas
